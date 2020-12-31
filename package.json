@@ -1,0 +1,19 @@
+{
+  "name": "@cdr0/active-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "briancsparks@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@cdr0/sg": "^1.0.2",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "ava": "^3.14.0"
+  }
+}
